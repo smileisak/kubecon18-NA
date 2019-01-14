@@ -2,10 +2,10 @@
 ## Keynote
 
 
-| Topic        | Presentation          | Video  |
-| ------------- |:-------------:| -----:|
-| Keynote: Helm Update - Michelle Noorali, Senior Software Engineer, Microsoft | [Slides](https://schd.ws/hosted_files/kccna18/ce/helm%20project%20update.pdf) | [video](https://youtube.com/watch?v=UFVaSc2gFnI) |
-| Keynote: Opening Remarks + CNCF Community Updates – Liz Rice, Technology Evangelist, Aqua Security | [Slides](https://schd.ws/hosted_files/kccna18/c1/Community%20Updates.pdf) | [video](https://youtube.com/watch?v=Xc6qbNF651k) |
+| Topic        | Presentation          | Video  |Checked |
+| ------------- |:-------------:| -----:|------:|
+| Keynote: Helm Update - Michelle Noorali, Senior Software Engineer, Microsoft | [Slides](https://schd.ws/hosted_files/kccna18/ce/helm%20project%20update.pdf) | [video](https://youtube.com/watch?v=UFVaSc2gFnI) | <%= octicon "check" %> |
+| Keynote: Opening Remarks + CNCF Community Updates – Liz Rice, Technology Evangelist, Aqua Security | [Slides](https://schd.ws/hosted_files/kccna18/c1/Community%20Updates.pdf) | [video](https://youtube.com/watch?v=Xc6qbNF651k) |<%= octicon "check" %>|
 | Keynote: Envoy Update – Matt Klein, Senior Software Engineer, Constance Caramanolis | [Slides](https://schd.ws/hosted_files/kccna18/f3/Envoy-Update.pdf) | [video](https://youtube.com/watch?v=Vm3UMYMABsE)|
 | Keynote: 5 Years of etcd: Past, Present, and Future - Brandon Philips & Xiang Li | [Slides](https://schd.ws/hosted_files/kccna18/8d/2018%20Kubecon%20NA%205%20years%20of%20etcd.pdf) | [video](https://youtube.com/watch?v=jnfgqUzubKk) |
 | Keynote: Kubernetes, Istio, Knative: The New Open Cloud Stack - Aparna Sinha | [Slides](https://schd.ws/hosted_files/kccna18/b9/Kubernetes%2C%20Istio%2C%20Knative%20-%20The%20new%20open%20cloud%20stack.pdf) | [video](https://youtube.com/watch?v=OxJEUCmkixs) |
